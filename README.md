@@ -1,2 +1,0 @@
-# RunXDelhi
-App
